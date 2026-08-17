@@ -42,3 +42,7 @@ One design challenge I encountered was making large images and videos display pr
 I addressed this problem by adding a media query for screens **600 pixels wide or smaller**. Inside the media query, I reduced the image width to **70%** and the video width to **75%**, then centered both using automatic margins.
 
 This improved the mobile layout and made the media easier to view.
+
+## Github Projecgt Branch:
+
+https://github.com/bbarello-wg/sophia/tree/Intro-to-Web-Development
