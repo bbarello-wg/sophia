@@ -1,0 +1,53 @@
+body {
+  color: black;
+  margin: 0 20px;
+}
+
+h1 {
+  color: blue;
+  font-family: verdana;
+}
+p {
+  color: red;
+  font-family: courier;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+nav > ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+  gap: 20px;
+}
+
+@media (max-width: 600px) {
+
+  img {
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  video {
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+
+
