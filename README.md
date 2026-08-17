@@ -43,6 +43,6 @@ I addressed this problem by adding a media query for screens **600 pixels wide o
 
 This improved the mobile layout and made the media easier to view.
 
-## Github Projecgt Branch:
+## Github Project Branch:
 
 https://github.com/bbarello-wg/sophia/tree/Intro-to-Web-Development
